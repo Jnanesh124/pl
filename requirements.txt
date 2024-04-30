@@ -1,4 +1,4 @@
-aiohttpz
+aiohttp
 pymongo[srv]
 motor
 Pyrogram
