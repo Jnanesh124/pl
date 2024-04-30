@@ -19,4 +19,3 @@ aiofiles
 pyromod 
 flask
 gunicorn
-dotevn
